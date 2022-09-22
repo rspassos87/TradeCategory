@@ -1,0 +1,3 @@
+For this second question, you need:
+- Create in the "TRADE" class and in its "interface", the boolean property "IsPoliicallyExposed"
+- The "RISK" class, add in the "CalculateRisk" method, the PAP rule, checking if IsPoliticalExposed is true;
